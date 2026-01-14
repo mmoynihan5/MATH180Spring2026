@@ -5,7 +5,7 @@
   <!-- Include common macros etc: -->
   <xi:include href="./docinfo.ptx" />
   <!-- By creating a PreTeXt "book" for the course, we can split components into "chapters" -->
-  <book>
+  <article>
     <title>Precalculus</title>
 
     <subtitle>MATH 180 Spring 2026</subtitle>
@@ -23,6 +23,6 @@
 
     <xi:include href="./dates.ptx"/>
 
-    </book>
+  </article>
 
   </pretext>

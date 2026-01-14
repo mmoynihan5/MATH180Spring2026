@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 
-<chapter xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude">
+<section xml:id="information" xmlns:xi="http://www.w3.org/2001/XInclude">
   <title>Course Information</title>
 
   <introduction>
@@ -89,9 +89,25 @@
 
 
       </li>
-      </dl>
+
+      <li>
+        <title>Homework</title>
+
+        <p>
+          All homework will appear in <url href="https://www.myopenmath.com/" visual="myopenmath">MyOpenMath</url>.
+          To register, you will need the following.
+        </p>
+
+        <p>Course ID:</p>
+
+        <p>Enrollment Key:</p>
+
+      </li>
+
+
+    </dl>
     </p>
 
   </introduction>
 
-</chapter>
+</section>

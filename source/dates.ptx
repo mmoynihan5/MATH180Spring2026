@@ -1,112 +1,117 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<chapter xml:id="important-dates">
-      <title>Important Dates</title>
+<section xml:id="important-dates">
+    <title>Important Dates</title>
 
+  <p>
+    The following are the most significant university and course dates this term.
+    For smaller course assignment due dates, check the <url href="https://framingham.instructure.com/">Canvas</url> calendar regularly.
+  </p>
 
   <p>
     <dl width="wide">
-    <li>
-      <title>Tuesday, Jan 27</title>
+      <li>
+        <title>Tuesday, Jan 27</title>
 
-      <p>
-        Last day to add/drop a class
-      </p>
-    </li>
+        <p>
+          Last day to add/drop a class
+        </p>
+      </li>
 
-    <li>
-      <title>Monday, Feb 09</title>
+      <li>
+        <title>Monday, Feb 09</title>
 
-      <p>
-        Objectives Quiz 1
-      </p>
-    </li>
+        <p>
+          Objectives Quiz 1
+        </p>
+      </li>
 
-    <li>
-      <title>Monday, Feb 16</title>
+      <li>
+        <title>Monday, Feb 16</title>
 
-      <p>
-        Presidents' Day (no classes)
-      </p>
-    </li>
+        <p>
+          Presidents' Day (no classes)
+        </p>
+      </li>
 
-    <li>
-      <title>Monday, Mar 02</title>
+      <li>
+        <title>Monday, Mar 02</title>
 
-      <p>
-        Objectives Quiz 2
-      </p>
-    </li>
+        <p>
+          Objectives Quiz 2
+        </p>
+      </li>
 
-    <li>
-      <title>March 14 - March 22</title>
+      <li>
+        <title>March 14 - March 22</title>
 
-      <p>
-        Spring Vacation
-      </p>
-    </li>
-
-
-
-    <li>
-      <title>Friday, Mar 27</title>
-
-      <p>
-        Midterm Exam
-      </p>
-    </li>
-
-    <li>
-      <title>Friday, Apr 17</title>
-
-      <p>
-        Objectives Quiz 3
-      </p>
-    </li>
-
-    <li>
-      <title>Monday, Apr 20</title>
-
-      <p>
-        Patriots' Day (no classes)
-      </p>
-    </li>
+        <p>
+          Spring Vacation
+        </p>
+      </li>
 
 
-    <li>
-      <title>Friday, Apr 24</title>
+      <li>
+        <title>Friday, Mar 27</title>
 
-      <p>
-        Last day to withdraw and receive a W
-        Also last day to take a course Credit/No Credit
-      </p>
-    </li>
+        <p>
+          Midterm Exam
+        </p>
+      </li>
 
-   <li>
-      <title>Thursday, May 07</title>
+      <li>
+        <title>Friday, Apr 17</title>
 
-      <p>
-        Objectives Quiz 3
-      </p>
-    </li>
+        <p>
+          Objectives Quiz 3
+        </p>
+      </li>
 
+      <li>
+        <title>Monday, Apr 20</title>
 
-    <li>
-      <title>Friday, May 08</title>
-
-      <p>
-        Semester classes end	
-      </p>
-    </li>
+        <p>
+          Patriots' Day (no classes)
+        </p>
+      </li>
 
 
-    <li>
-      <title>TBA</title>
+      <li>
+        <title>Friday, Apr 24</title>
 
-      <p>
-        Final Exam from ? to ?
-      </p>
-    </li>
+        <p>
+          Last Day to Withdraw with a W
+        </p>
+        <p>
+          Last Day to Take a Course Credit/No Credit
+        </p>
+      </li>
+
+      <li>
+        <title>Thursday, May 07</title>
+
+        <p>
+          Objectives Quiz 4
+        </p>
+      </li>
+
+
+      <li>
+        <title>Friday, May 08</title>
+
+        <p>
+          Semester classes end	
+        </p>
+      </li>
+
+
+      <li>
+        <title>TBA</title>
+
+        <p>
+          Final Exam from ? to ?
+        </p>
+      </li>
     </dl>
   </p>
-</chapter>
+</section>
